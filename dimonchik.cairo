@@ -7,7 +7,7 @@ mod HelloStarknet {
     #[event] // animelover
     fn Hello(from: ContractAddress, value: felt252) {}
 // drop season should be good
-
+//feeling excited
     #[external]
     fn Say_Hello(message: felt252) {
         let caller = get_caller_address();
