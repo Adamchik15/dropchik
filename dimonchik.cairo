@@ -3,7 +3,7 @@ mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
 // Sasuke 4ever
-
+// Drop enthusiast
     #[event]
     fn Hello(from: ContractAddress, value: felt252) {}
 
