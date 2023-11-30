@@ -4,7 +4,7 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 // Sasuke 4ever
 // Drop enthusiast
-    #[event]
+    #[event] // animelover
     fn Hello(from: ContractAddress, value: felt252) {}
 
 
