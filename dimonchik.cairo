@@ -2,7 +2,7 @@
 mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
-// Sasuke 4ever
+// Sasuke 4ever // life is good
 // Drop enthusiast
 // anime lover
     #[event] // animelover
