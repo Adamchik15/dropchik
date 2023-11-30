@@ -6,7 +6,7 @@ mod HelloStarknet {
 // Drop enthusiast
     #[event] // animelover
     fn Hello(from: ContractAddress, value: felt252) {}
-
+// drop season should be good
 
     #[external]
     fn Say_Hello(message: felt252) {
