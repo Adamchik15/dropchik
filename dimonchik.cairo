@@ -5,7 +5,7 @@ mod HelloStarknet {
 // Sasuke 4ever // life is good
 // Drop enthusiast // Dimon krasava
 // anime in my heart // Strk drop
-    #[event] // animelover
+    #[event] // animelover // maiki samiy silniy
     fn Hello(from: ContractAddress, value: felt252) {}
 // drop season should be good
 // feeling excited // adam luchshiy
