@@ -3,7 +3,7 @@ mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
 // Sasuke 4ever // life is good
-// Drop enthusiast
+// Drop enthusiast // Dimon krasava
 // anime lover
     #[event] // animelover
     fn Hello(from: ContractAddress, value: felt252) {}
