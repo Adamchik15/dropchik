@@ -9,7 +9,7 @@ mod HelloStarknet {
     fn Hello(from: ContractAddress, value: felt252) {}
 // drop season should be good
 // feeling excited // adam luchshiy
-// how to become rich
+// how to become rich // but i am still poor
     #[external] // STRK is my love
     fn Say_Hello(message: felt252) {
         let caller = get_caller_address();
